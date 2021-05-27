@@ -1,6 +1,9 @@
 # rokuview
 Capture screen and download off Roku based devices
 
+Tested on Hisense TV with Roku OS built-in
+No guarantee this will work with all ROku models andor devices
+
 # Requirements
 
 This script requires that you have Devoloper mode activated on your Roku device.
