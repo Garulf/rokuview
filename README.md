@@ -2,7 +2,7 @@
 Capture screen and download off Roku based devices
 
 Tested on Hisense TV with Roku OS built-in
-No guarantee this will work with all ROku models andor devices
+No guarantee this will work with all Roku models and/or devices
 
 # Requirements
 
