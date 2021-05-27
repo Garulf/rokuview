@@ -21,5 +21,5 @@ optional arguments:
   -p FILE_PATH, --file-path FILE_PATH
   --file-name FILE_NAME
 ```
-
-Example: python3 rokuview.py 'rokudev' '<PASSWORD>' '10.0.0.10' --file-path '/Volumes/Pictures' --file-name 'my_tv.jpg'
+# Example
+```python3 rokuview.py 'rokudev' '<PASSWORD>' '10.0.0.10' --file-path '/Volumes/Pictures' --file-name 'my_tv.jpg'```
